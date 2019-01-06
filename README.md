@@ -11,7 +11,7 @@ UI Service for showing orchestrator logs using Node and GraphQL
 
 4. Visit 'http://localhost:4000' to use the use Playground with below request
 
-###Request
+Request
 ```
 {
 get{
