@@ -5,6 +5,10 @@
   "scripts": {
     "start": "node src/index.js"
   },
+  "engines": {
+    "node": "8.11.3",
+    "npm": "6.5.0"
+  },
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "graphql-yoga": "^1.7.0",
