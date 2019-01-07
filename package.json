@@ -1,5 +1,5 @@
 {
-  "name": "hackernews-node",
+  "name": "orch-ui-service-orglog-node-graphql",
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
