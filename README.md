@@ -28,3 +28,6 @@ get{
 }
 }
 ```
+
+# Technologies used
+Node, Express, GraphQL(graphql-yoga), Gitlab, Heroku, Atom IDE
